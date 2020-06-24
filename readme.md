@@ -21,23 +21,23 @@
 
 * [lwjobs / AndroidStudy](https://github.com/lwjobs/AndroidStudy)
 
-* [xjbclz / appinventor](https://github.com/xjbclz/appinventor) app inventor资源
+* [app inventor资源](https://github.com/xjbclz/appinventor) 
 
-* [mit-cml / appinventor-sources](https://github.com/mit-cml/appinventor-sources) MIT App Inventor Public Open Source
+* [mit-cml / appinventor-sources](https://github.com/mit-cml/appinventor-sources)  MIT App Inventor Public Open Source
 
 
 
 ## Java
 
-* [LingCoder / OnJava8](https://github.com/LingCoder/OnJava8) 《Java编程思想》 第5版
+* [LingCoder / OnJava8](https://github.com/LingCoder/OnJava8) 《Java编程思想》第5版
 
-* [BruceEckel / OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples)
+* [《Java编程思想》第5版源码](https://github.com/BruceEckel/OnJava8-Examples)
 
 * [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava)
 
-* [RedSpider1 / concurrent](https://github.com/RedSpider1/concurrent) 这是RedSpider社区成员原创与维护的Java多线程系列文章。
+* [Java多线程系列文章](https://github.com/RedSpider1/concurrent) 
 
-* [clxering / Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) Effective Java（第3版）各章节的中英文学习参考（已完成）
+* [Effective Java 第3版](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) 
 
 * [hollischuang / toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) Java工程师成神之路
 
@@ -106,7 +106,7 @@
 
 * [DONGChuan / GradleUserGuide](https://github.com/DONGChuan/GradleUserGuide) "Gradle User Guide" 中文版
 
-* [waylau / gradle-3-user-guide](https://github.com/waylau/gradle-3-user-guide) Gradle 3 User Guide 中文翻译《Gradle 3 用户指南》
+* [waylau / gradle-3-user-guide](https://github.com/waylau/gradle-3-user-guide) 《Gradle 3 用户指南》中文版
 
 * [orctom / gradle-archetype-plugin](https://github.com/orctom/gradle-archetype-plugin)
 
@@ -140,13 +140,12 @@
 
 ## 区块链
 
-* [chaozh / awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+* [chaozh / awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) 区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 
-*  
 
 ## 交易、量化
 
-* [QUANTAXIS / QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
+* [QUANTAXIS / QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS)  纯本地量化解决方案
 
 * [HuobiRDCenter / huobi_Java](https://github.com/HuobiRDCenter/huobi_Java) 火币API
 
@@ -203,22 +202,17 @@
 ## Hugo
 
 * [gohugoio / hugo](https://github.com/gohugoio/hugo)
-
-* [Suroppo / hugo-theme-demo](https://github.com/Suroppo/hugo-theme-demo) hugo自定义主题教程的demo
-
-* [xianmin / hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)
-
 * [Vimux / Mainroad](https://github.com/Vimux/Mainroad)
-
+* [Suroppo / hugo-theme-demo](https://github.com/Suroppo/hugo-theme-demo) hugo自定义主题教程的demo
+* [xianmin / hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)
 * [zzossig / hugo-theme-zdoc](https://github.com/zzossig/hugo-theme-zdoc) 
-
 * [coderzh / hugo-pacman-theme](https://github.com/coderzh/hugo-pacman-theme) 
 
 ## 杂项：
 
 * [mozillazg / go-pinyin](https://github.com/mozillazg/go-pinyin) 汉字转拼音
 
-* [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+* [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 技术面试必备基础知识
 
 * [studyzy / imewlconverter](https://github.com/studyzy/imewlconverter) 一款开源免费的输入法词库转换程序
 
@@ -248,4 +242,4 @@
 
 * [864381832 / xJavaFxTool](https://github.com/864381832/xJavaFxTool) 基于JavaFx搭建的实用小工具集合
 
-* [ricklamers / gridstudio](https://github.com/ricklamers/gridstudio) Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
+* [ricklamers / gridstudio](https://github.com/ricklamers/gridstudio) Grid studio is a web-based application for data science
