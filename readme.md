@@ -1,24 +1,25 @@
 ## 设计模式
 
-* ### [quanke / design-pattern-java-source-code](https://github.com/quanke/design-pattern-java-source-code) 
+* [《设计模式Java版》](https://github.com/quanke/design-pattern-java)
 
-* ### [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) 
+* [《设计模式 Java版》源码](https://github.com/quanke/design-pattern-java-source-code) 
 
-* ### [Java 23种设计模式全归纳](https://github.com/youlookwhat/DesignPattern) 
+* [Java设计模式（英文）](https://github.com/iluwatar/java-design-patterns) 
 
-* ### [系统设计入门](https://github.com/donnemartin/system-design-primer) 
+* [Java23种设计模式全归纳](https://github.com/youlookwhat/DesignPattern) 
 
-* ### [图说设计模式](https://github.com/me115/design_patterns) 
+* [系统设计入门](https://github.com/donnemartin/system-design-primer) 
 
-* ### [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)  
+* [图说设计模式](https://github.com/me115/design_patterns) 
 
-* 
+* [设计模式包教不包会](https://github.com/AlfredTheBest/Design-Pattern)  
+
 
 ## Android
 
-* ### [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese) 
+* [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese) 
 
-* ### [lwjobs / AndroidStudy](https://github.com/lwjobs/AndroidStudy)
+* [lwjobs / AndroidStudy](https://github.com/lwjobs/AndroidStudy)
 
 * [xjbclz / appinventor](https://github.com/xjbclz/appinventor) app inventor资源
 
@@ -28,41 +29,40 @@
 
 ## Java
 
-* ### [LingCoder / OnJava8](https://github.com/LingCoder/OnJava8) 《Java编程思想》 第5版
+* [LingCoder / OnJava8](https://github.com/LingCoder/OnJava8) 《Java编程思想》 第5版
 
-* ### [BruceEckel / OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples)
+* [BruceEckel / OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples)
 
-* ### [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava)
+* [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava)
 
-* ### [RedSpider1 / concurrent](https://github.com/RedSpider1/concurrent) 这是RedSpider社区成员原创与维护的Java多线程系列文章。
+* [RedSpider1 / concurrent](https://github.com/RedSpider1/concurrent) 这是RedSpider社区成员原创与维护的Java多线程系列文章。
 
-* ### [clxering / Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) Effective Java（第3版）各章节的中英文学习参考（已完成）
+* [clxering / Effective-Java-3rd-edition-Chinese-English-bilingual](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) Effective Java（第3版）各章节的中英文学习参考（已完成）
 
-* ### [hollischuang / toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)  Java工程师成神之路
+* [hollischuang / toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)  Java工程师成神之路
 
-* ### [remkop / picocli](https://github.com/remkop/picocli) 命令行工具包
+* [remkop / picocli](https://github.com/remkop/picocli) 命令行工具包
 
-* ### [knowm / XChart](https://github.com/knowm/XChart) 图表类库
+* [knowm / XChart](https://github.com/knowm/XChart) 图表类库
 
-* ### [akullpp / awesome-java](https://github.com/akullpp/awesome-java) 
+* [akullpp / awesome-java](https://github.com/akullpp/awesome-java) 
 
-* ### [jobbole / awesome-java-cn](https://github.com/jobbole/awesome-java-cn) 
-
+* [jobbole / awesome-java-cn](https://github.com/jobbole/awesome-java-cn) 
 
 
 ## JavaFX
 
-* ### [dlsc-software-consulting-gmbh / WorkbenchFX](https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX) 
+* [dlsc-software-consulting-gmbh / WorkbenchFX](https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX) 
 
-* ### [openjfx / javafx-maven-archetypes](https://github.com/openjfx/javafx-maven-archetypes)
+* [openjfx / javafx-maven-archetypes](https://github.com/openjfx/javafx-maven-archetypes)
 
-* ### [Jerady / fontawesomefx-glyphsbrowser](https://github.com/Jerady/fontawesomefx-glyphsbrowser)
+* [Jerady / fontawesomefx-glyphsbrowser](https://github.com/Jerady/fontawesomefx-glyphsbrowser)
 
-* ### [asciidocfx / AsciidocFX](https://github.com/asciidocfx/AsciidocFX)  Asciidoc 编辑器
+* [asciidocfx / AsciidocFX](https://github.com/asciidocfx/AsciidocFX)  Asciidoc 编辑器
 
-* ### [AlmasB / FXGL](https://github.com/AlmasB/FXGL) javafx游戏引擎
+* [AlmasB / FXGL](https://github.com/AlmasB/FXGL) javafx游戏引擎
 
-* ### [edvin / fxlauncher](https://github.com/edvin/fxlauncher)
+* [edvin / fxlauncher](https://github.com/edvin/fxlauncher)
 
 * ### [FXMisc / RichTextFX](https://github.com/FXMisc/RichTextFX)
 
