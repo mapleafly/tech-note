@@ -14,19 +14,6 @@
 
 * [设计模式包教不包会](https://github.com/AlfredTheBest/Design-Pattern) 
 
-
-## Android
-
-* [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese) 
-
-* [lwjobs / AndroidStudy](https://github.com/lwjobs/AndroidStudy)
-
-* [app inventor资源](https://github.com/xjbclz/appinventor) 
-
-* [mit-cml / appinventor-sources](https://github.com/mit-cml/appinventor-sources)  MIT App Inventor Public Open Source
-
-
-
 ## Java
 
 * [LingCoder / OnJava8](https://github.com/LingCoder/OnJava8) 《Java编程思想》第5版
@@ -53,24 +40,23 @@
 ## JavaFX
 
 * [dlsc-software-consulting-gmbh / WorkbenchFX](https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX) 
-
 * [openjfx / javafx-maven-archetypes](https://github.com/openjfx/javafx-maven-archetypes)
-
 * [Jerady / fontawesomefx-glyphsbrowser](https://github.com/Jerady/fontawesomefx-glyphsbrowser)
-
 * [asciidocfx / AsciidocFX](https://github.com/asciidocfx/AsciidocFX) Asciidoc 编辑器
-
 * [AlmasB / FXGL](https://github.com/AlmasB/FXGL) javafx游戏引擎
-
 * [edvin / fxlauncher](https://github.com/edvin/fxlauncher)
-
 * [FXMisc / RichTextFX](https://github.com/FXMisc/RichTextFX)
-
 * [controlsfx / controlsfx](https://github.com/controlsfx/controlsfx)
-
 * [jfoenixadmin / JFoenix](https://github.com/jfoenixadmin/JFoenix) JavaFX Material Design Library
-
 * [mhrimaz / AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX) 
+
+## Android
+
+* [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese) 
+* [lwjobs / AndroidStudy](https://github.com/lwjobs/AndroidStudy)
+* [app inventor资源](https://github.com/xjbclz/appinventor) 
+* [mit-cml / appinventor-sources](https://github.com/mit-cml/appinventor-sources)  MIT App Inventor Public Open Source
+* [Android Studio 使用艺术](https://github.com/quanke/android-studio)
 
 ## Golang
 
