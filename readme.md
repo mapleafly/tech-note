@@ -4,19 +4,19 @@
 
 * ### [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) 
 
-* ### [youlookwhat / DesignPattern](https://github.com/youlookwhat/DesignPattern) Java 23种设计模式全归纳
+* ### [Java 23种设计模式全归纳](https://github.com/youlookwhat/DesignPattern) 
 
-* ### [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) 系统设计入门
+* ### [系统设计入门](https://github.com/donnemartin/system-design-primer) 
 
-* ### [me115 / design_patterns](https://github.com/me115/design_patterns) 图说设计模式
+* ### [图说设计模式](https://github.com/me115/design_patterns) 
 
-* ### [AlfredTheBest / Design-Pattern](https://github.com/AlfredTheBest/Design-Pattern)  design pattern 包教不包会
+* ### [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)  
 
 * 
 
 ## Android
 
-* ### [kesenhoo / android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese) Android官方培训课程中文版
+* ### [Android官方培训课程中文版](https://github.com/kesenhoo/android-training-course-in-chinese) 
 
 * ### [lwjobs / AndroidStudy](https://github.com/lwjobs/AndroidStudy)
 
