@@ -1,39 +1,27 @@
 ## 设计模式
 
 * [《设计模式Java版》](https://github.com/quanke/design-pattern-java)
-
 * [《设计模式 Java版》源码](https://github.com/quanke/design-pattern-java-source-code) 
-
 * [Java设计模式（英文）](https://github.com/iluwatar/java-design-patterns) 
-
 * [Java23种设计模式全归纳](https://github.com/youlookwhat/DesignPattern) 
-
 * [系统设计入门](https://github.com/donnemartin/system-design-primer) 
-
 * [图说设计模式](https://github.com/me115/design_patterns) 
-
 * [设计模式包教不包会](https://github.com/AlfredTheBest/Design-Pattern) 
+* [runoob设计模式教程](https://www.runoob.com/design-pattern/design-pattern-intro.html) 
+* [学习设计模式](https://www.twle.cn/l/yufei/gof/gof-basic-index.html) 
 
 ## Java
 
 * [LingCoder / OnJava8](https://github.com/LingCoder/OnJava8) 《Java编程思想》第5版
-
 * [《Java编程思想》第5版源码](https://github.com/BruceEckel/OnJava8-Examples)
-
 * [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava)
-
 * [Java多线程系列文章](https://github.com/RedSpider1/concurrent) 
-
 * [Effective Java 第3版](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) 
-
+* [Effective java 3rd 源码](https://github.com/jbloch/effective-java-3e-source-code) 
 * [hollischuang / toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) Java工程师成神之路
-
 * [remkop / picocli](https://github.com/remkop/picocli) 命令行工具包
-
 * [knowm / XChart](https://github.com/knowm/XChart) 图表类库
-
 * [akullpp / awesome-java](https://github.com/akullpp/awesome-java) 
-
 * [jobbole / awesome-java-cn](https://github.com/jobbole/awesome-java-cn) 
 
 
@@ -173,17 +161,14 @@
 
 * [yemount / pose-animator](https://github.com/yemount/pose-animator) 自动捕捉生成动画
 
-## 书籍
+## 书籍&教程
 
 * [waylau / distributed-java](https://github.com/waylau/distributed-java) 分布式java
-
 * [waylau / books-collection](https://github.com/waylau/books-collection) 给程序员的开源、免费书籍收集，图书集合。
-
 * [LongTengDao / TOML](https://github.com/LongTengDao/TOML) 汤小明语的官方文档翻译。Wiki 中有教程
-
 * [sorenduan / awesome-java-books](https://github.com/sorenduan/awesome-java-books) Java开发者技术书籍大全 
-
 * [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
+* [简单教程](https://www.twle.cn/) 
 
 ## Hugo
 
