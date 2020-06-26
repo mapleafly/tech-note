@@ -7,7 +7,6 @@
 * [系统设计入门](https://github.com/donnemartin/system-design-primer) 
 * [图说设计模式](https://github.com/me115/design_patterns) 
 * [设计模式包教不包会](https://github.com/AlfredTheBest/Design-Pattern) 
-* [runoob设计模式教程](https://www.runoob.com/design-pattern/design-pattern-intro.html) 
 * [学习设计模式](https://www.twle.cn/l/yufei/gof/gof-basic-index.html) 
 
 ## Java
