@@ -14,6 +14,9 @@
 * [LingCoder / OnJava8](https://github.com/LingCoder/OnJava8) 《Java编程思想》第5版
 * [《Java编程思想》第5版源码](https://github.com/BruceEckel/OnJava8-Examples)
 * [ReactiveX / RxJava](https://github.com/ReactiveX/RxJava)
+* [nanchen2251 / RxJava2Examples](https://github.com/nanchen2251/RxJava2Examples) 
+* [Rx和RxJava文档中文翻译项目](https://github.com/mcxiaoke/RxDocs) 
+* [lzyzsd / Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 * [Java多线程系列文章](https://github.com/RedSpider1/concurrent) 
 * [Effective Java 第3版](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual) 
 * [Effective java 3rd 源码](https://github.com/jbloch/effective-java-3e-source-code) 
